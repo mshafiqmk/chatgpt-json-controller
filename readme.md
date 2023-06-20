@@ -1,4 +1,4 @@
-# chatgpt-api-controller
+# chatgpt-controller
 
 ```json
 {
